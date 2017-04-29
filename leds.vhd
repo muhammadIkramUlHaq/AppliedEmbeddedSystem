@@ -1,3 +1,5 @@
+--a simple program to turn on 4 leds in order over a time interval of 1 second. 
+
 ----------------------------------------------------------------------------------
 -- Company: 
 -- Engineer: 
